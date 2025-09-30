@@ -1,6 +1,6 @@
 # Queue Implementation in C++
 
-**Name:** Pal Jain
+**Name:** Pal Jain  
 **PRN:** 24070123067  
 **Class:** ENTC A3  
 **Title:** Queue Implementation using Array in C++
